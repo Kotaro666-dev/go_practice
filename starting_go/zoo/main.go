@@ -2,7 +2,7 @@ package main;
 
 import (
   "fmt"
-   "./animals"
+   "zoo/animals"
 )
 
 func main() {
